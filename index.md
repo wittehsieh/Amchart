@@ -1,15 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-
-
 <style>
     #chartdiv {
         width: 100%;
         height: 500px;
-    }
-
-    body {
-        background-color: rgba(0, 0, 0, 0);
     }
 </style>
 
@@ -114,10 +106,3 @@
 
     }); // end am4core.ready()
 </script>
-
-<body>
-    <!-- HTML -->
-    <div id="chartdiv"></div>
-</body>
-
-</html>
