@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<meta name="transparent" content="true">
+<head>
+    <meta name="transparent" content="true">
+</head>
 
 <style>
     #chartdiv {
