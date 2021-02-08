@@ -1,12 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<meta name="transparent" content="true">
 
 <style>
     #chartdiv {
         width: 100%;
         height: 500px;
-        background-color: rgba(0, 0, 0, 0);
+        /*background-color: rgba(0, 0, 0, 0);*/
+    }
+
+    body {
+        background-color: rgba(255, 0, 0, 255);
     }
 </style>
 
