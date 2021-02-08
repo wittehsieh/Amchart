@@ -1,3 +1,7 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
 <style>
     #chartdiv {
         width: 100%;
@@ -110,3 +114,5 @@
 <body>
     <div id="chartdiv"></div>
 </body>
+
+</html>
